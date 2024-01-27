@@ -1,0 +1,12 @@
+com/odigeo/interview/coding/battleshipapi/event/GameCreatedEvent.class
+com/odigeo/interview/coding/battleshipapi/contract/GameJoinCommand.class
+com/odigeo/interview/coding/battleshipapi/contract/GameFireResponse.class
+com/odigeo/interview/coding/battleshipapi/contract/DeployShipsCommand$ShipDeployment.class
+com/odigeo/interview/coding/battleshipapi/contract/DeployShipsCommand.class
+com/odigeo/interview/coding/battleshipapi/event/GameFireEvent.class
+com/odigeo/interview/coding/battleshipapi/contract/ErrorResponse.class
+com/odigeo/interview/coding/battleshipapi/contract/GameFireCommand.class
+com/odigeo/interview/coding/battleshipapi/event/KafkaEvent.class
+com/odigeo/interview/coding/battleshipapi/contract/GameFireResponse$FireOutcome.class
+com/odigeo/interview/coding/battleshipapi/contract/GameResponse.class
+com/odigeo/interview/coding/battleshipapi/contract/GameStartCommand.class
